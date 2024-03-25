@@ -1,5 +1,5 @@
-# My-Python-Work
-這是記錄我在108學年度學習Python的課程期間所寫的小程式和期末專案!<br>分為以下幾個部份:
-* 108-1 &rarr; 108學年度第一學期
-* 108-2 &rarr; 108學年度第二學期
-* 108-Online_Class &rarr; 108學年度線上課程
+# Python_108_Class
+This is a collection of small programs and final projects I wrote during the Python course in the academic year 108.<p>It is divided into the following parts:
+* 108-1: First Semester of the Academic Year 108
+* 108-2: Second Semester of the Academic Year 108
+* 108-Online_Class: Online Courses for the Academic Year 108
